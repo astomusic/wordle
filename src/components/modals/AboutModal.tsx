@@ -11,7 +11,7 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
       <p className="text-sm text-gray-500">
         이 게임은 Wordle의 clone의 변형판입니다 -{' '}
         <a
-          href="https://github.com/nakosung/wordle"
+          href="https://github.com/astomusic/wordle"
           className="underline font-bold"
         >
           코드는 여기에
